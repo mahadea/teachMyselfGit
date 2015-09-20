@@ -1,2 +1,8 @@
 a line of text
+<<<<<<< HEAD
 another line of text this time changed by sumithar
+=======
+another line of text that I'm changing
+>>>>>>> 97b2eba6279ba89bcac29cd02a2ad6bf3d0762b9
+make a change
+
